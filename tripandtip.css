@@ -1,0 +1,24 @@
+img {
+	width:200;
+	border: 1px solid #ddd;
+    border-radius: 4px; 
+    padding: 5px;
+	border-radius: 8px;
+}
+ 
+ body {
+	 background-image: middle;
+ }
+p {
+	font-family: David;
+	font-size: 22;
+}
+ 
+ .red {
+	 color: red;
+ }
+
+.opacity{
+	opacity:0.5;
+}
+	  
